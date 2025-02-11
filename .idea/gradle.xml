@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Array/Basic operations" />
+            <option value="$PROJECT_DIR$/Topics/Array/Creating arrays" />
+            <option value="$PROJECT_DIR$/Topics/Array/Crunching Numbers  How Much Space" />
+            <option value="$PROJECT_DIR$/Topics/Array/Sum of multiples of 3 in an array" />
+            <option value="$PROJECT_DIR$/Topics/Array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Array/Ways to create an array of ints" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Completing a method to print array elements" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Get first and last elements" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/How to invoke the method" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/The same results" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/The sequence" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Define the conditions" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determining range of an integer  low, mid or high" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Healthy sleep" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Leap year" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop/From sum to product" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Grades" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Size of parts" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Statements" />
+            <option value="$PROJECT_DIR$/Topics/For loop/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/A quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Checking divisibility and printing appropriate strings" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Method createFullName" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/The main tools of functional decomposition" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Why decompose a program" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Ascending dreams, descending schemes" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increase, decrease and increase an integer" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increment, decrement, then double n" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/What is the result" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Converting minutes to hours and minutes format" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Difference of times" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Integer operations" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Match operations and their meanings" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reading integer numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Method  main/Calculating factorial of a given number" />
+            <option value="$PROJECT_DIR$/Topics/Method  main/Fixing the main method" />
+            <option value="$PROJECT_DIR$/Topics/Method  main/Select all correct statements" />
+            <option value="$PROJECT_DIR$/Topics/Method  main/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Floor-space of the room" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Harry Potter" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Rewriting code using switch" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Calculations with two or three numbers from input" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Implementing polymorphic add functions" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Overloading methods" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Different types" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Greet user with their name and age" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Reading a single word" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Rectangle whisperer's precision quest" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Repeater" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Theory" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Celsius Chase  Climbing to a Fiery Halt" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Chilling halt to a warm conversion" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Guess the Number" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/The sequence" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
