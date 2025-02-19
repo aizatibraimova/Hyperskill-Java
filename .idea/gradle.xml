@@ -16,10 +16,13 @@
             <option value="$PROJECT_DIR$/Topics/Array/Sum of multiples of 3 in an array" />
             <option value="$PROJECT_DIR$/Topics/Array/Theory" />
             <option value="$PROJECT_DIR$/Topics/Array/Ways to create an array of ints" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Adding values" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Calling varargs" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Completing a method to print array elements" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Get first and last elements" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/How to invoke the method" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/What does the method print" />
             <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/The same results" />
             <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/The sequence" />
             <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Theory" />
@@ -55,6 +58,12 @@
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/Match operations and their meanings" />
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reading integer numbers" />
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Sneak Peek  Unveiling the Array's Secrets" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Sum array elements greater than a value" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The index of the first max in an array" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The minimum value of an array" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
             <option value="$PROJECT_DIR$/Topics/Method  main/Calculating factorial of a given number" />
             <option value="$PROJECT_DIR$/Topics/Method  main/Fixing the main method" />
             <option value="$PROJECT_DIR$/Topics/Method  main/Select all correct statements" />
@@ -73,6 +82,10 @@
             <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Rectangle whisperer's precision quest" />
             <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Repeater" />
             <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String/Calling basic methods" />
+            <option value="$PROJECT_DIR$/Topics/String/Comparing strings ignoring whitespaces" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a specific character from a greeting message" />
+            <option value="$PROJECT_DIR$/Topics/String/Theory" />
             <option value="$PROJECT_DIR$/Topics/While and do-while loops/Celsius Chase  Climbing to a Fiery Halt" />
             <option value="$PROJECT_DIR$/Topics/While and do-while loops/Chilling halt to a warm conversion" />
             <option value="$PROJECT_DIR$/Topics/While and do-while loops/Determine the result" />
